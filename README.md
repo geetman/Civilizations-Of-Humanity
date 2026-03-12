@@ -3,7 +3,7 @@ A Searchable List of Every Civilization In Humanity.
 
 [Link](https://geetman.github.io/Civilizations-Of-Humanity/)
 
-[https://geetman.github.io/Civilizations-Of-Humanity/]
+[https://geetman.github.io/Civilizations-Of-Humanity/](https://geetman.github.io/Civilizations-Of-Humanity/)
 
 # List of Civilizations
 ## Total Civilizations
